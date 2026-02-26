@@ -1,0 +1,8 @@
+# robots.txt for StreamActivate Guide
+# https://fubotvlink.github.io/robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://fubotvlink.github.io/sitemap.xml
